@@ -13,5 +13,5 @@
 
 - Link to Bert Modelling [is this](https://github.com/bhrt-sharma/Janta-NLP_Hackathon-For_Game_Reviews/blob/master/nlp-using-bert.ipynb)
 
-PS: I also tried using LSTM but it did not give me satisfactory results.
+PS: I also tried using [LSTM](https://github.com/bhrt-sharma/Janta-NLP_Hackathon-For_Game_Reviews) but it did not give me satisfactory results.
 ![](Janta_leaderboard.png)
